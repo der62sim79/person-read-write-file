@@ -1,0 +1,9 @@
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\bin\Debug\netstandard2.0\Logic.deps.json
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\bin\Debug\netstandard2.0\Logic.dll
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\bin\Debug\netstandard2.0\Logic.pdb
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfoInputs.cache
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\obj\Debug\netstandard2.0\Logic.AssemblyInfo.cs
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\obj\Debug\netstandard2.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\obj\Debug\netstandard2.0\Logic.dll
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\obj\Debug\netstandard2.0\Logic.pdb
+C:\Users\DCV\source\repos\MyFirstCSharpApp\Logic\obj\Debug\netstandard2.0\Logic.csprojAssemblyReference.cache

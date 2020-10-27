@@ -1,0 +1,16 @@
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\MyFirstCSharpApp.exe
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\MyFirstCSharpApp.deps.json
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\MyFirstCSharpApp.runtimeconfig.json
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\MyFirstCSharpApp.runtimeconfig.dev.json
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\MyFirstCSharpApp.dll
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\MyFirstCSharpApp.pdb
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.csprojAssemblyReference.cache
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.AssemblyInfoInputs.cache
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.AssemblyInfo.cs
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.dll
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.pdb
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.genruntimeconfig.cache
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\DCV\source\repos\MyFirstCSharpApp\MyFirstCSharpApp\obj\Debug\netcoreapp3.1\MyFirstCSharpApp.csproj.CopyComplete
